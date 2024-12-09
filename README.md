@@ -1,4 +1,4 @@
-# FLutter Share Sheet
+# Flutter Share Sheet
 
 A new Flutter project.
 
