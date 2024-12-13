@@ -122,16 +122,13 @@ class _CustomShareBottomSheetState extends State<CustomShareBottomSheet> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Animated Counter Example'),
+        title: const Text('Flutter Share Sheet'),
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text(
-              'Counter Value:',
-              style: TextStyle(fontSize: 24),
-            ),
+            Text(shareUrl),
             const SizedBox(height: 40),
             ElevatedButton(
               onPressed: () async {
