@@ -1,16 +1,9 @@
 # Flutter Share Sheet
 
-A new Flutter project.
+A custom share option sheet similar to Instagram’s, that combines system users with native share options for seamless content sharing.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Preview:
+![prev](https://github.com/idealittechno-com/flutter_share_sheet/blob/main/media/prev.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
